@@ -1,4 +1,4 @@
-## Olá sou a Diego da Silva, Aluno do 5 Semestre de Sistema de Informação, IFCE-CEDRO Ceará!
+## Olá sou a Diego da Silva, Aluno do 6 Semestre de Sistema de Informação, IFCE-CEDRO Ceará!
 
 <div align="center">
   <a href="https://github.com/DSCodingBR">
